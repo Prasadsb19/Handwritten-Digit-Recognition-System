@@ -1,5 +1,5 @@
 # Handwritten-Digit-Recognizer-GUI-using-Python
-Handwritten Digit Recognizer GUI using Python and CNN
+Handwritten Digit Recognizer GUI using Python and Neural Networks
 
 One of the most practical difficulties in pattern recognition applications is handwritten digit recognition. 
 Digit recognition is used in postal mail sorting, bank check processing, form data entry, and other applications. 
